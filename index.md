@@ -1,6 +1,6 @@
 ## Galaxy for Data Analysis
 
-Welcome to GalaxyTrark, here you will find a brief overview on how to use this tool for processing whole genome sequencing data.   Please don’t hesitate to contact us if you have questions
+Welcome to Training, here you will find a brief overview on how to use this tool for processing whole genome sequencing data.   Please don’t hesitate to contact us if you have questions
 
 
 ### Markdown
