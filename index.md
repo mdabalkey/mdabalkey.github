@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Galaxy for Data Analysis
 
-You can use the [editor on GitHub](https://github.com/mdabalkey/mdabalkey.github/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to GalaxyTrark, here you will find a brief overview on how to use this tool for processing whole genome sequencing data.   Please don’t hesitate to contact us if you have questions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
